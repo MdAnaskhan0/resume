@@ -85,9 +85,7 @@
 
 /* Hero Section Start */
 .hero-section {
-  background-image: url(/Images/v796-nunny-03b.jpg);
-  background-position: center;
-  background-size: cover;
+  background-color: #010B1C;
   width: 100%;
   height: auto;
   display: flex;
@@ -204,9 +202,7 @@
 .about-section {
   width: 100%;
   height: auto;
-  background: url(/Images/v796-nunny-03b\(1\).jpg);
-  background-position: center;
-  background-size: cover;
+  background-color: #010B1C;
   text-align: center;
 }
 .about-section .image {
